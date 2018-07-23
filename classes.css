@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Poor+Story');
+
+p {
+    font-family: 'Poor Story', cursive;
+}
+
+#paragraph1 {
+    color: red;
+}
